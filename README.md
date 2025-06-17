@@ -26,4 +26,3 @@ pip install -r requirements.txt
 after installing 
 python app.py
 
-Output of the project
