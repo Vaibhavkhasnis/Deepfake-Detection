@@ -26,3 +26,6 @@ pip install -r requirements.txt
 after installing 
 python app.py
 
+"C:\Users\vaibh\OneDrive\Pictures\Screenshots\Screenshot 2025-03-17 124309.png"
+"C:\Users\vaibh\OneDrive\Pictures\Screenshots\Screenshot 2025-05-03 232416.png"
+"C:\Users\vaibh\OneDrive\Pictures\Screenshots\Screenshot 2025-05-04 234727.png"
